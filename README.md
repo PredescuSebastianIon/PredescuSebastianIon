@@ -3,7 +3,7 @@
 My name is Predescu Sebastian, I'm a first year student at [ACS faculty](https://acs.pub.ro/). <br>
 Programming skills:
 - C, Python
-- OOP: C++, Java (Swift and Spring Boot)
+- OOP: C++, Java (Swing and Spring Boot)
 
 Soft Skills:
 - teamwork
