@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+My name is Predescu Sebastian, I'm a first year student at [ACS faculty](https://acs.pub.ro/). <br>
+Programming skills:
+- C, Python
+- OOP: C++, Java (Swift and Spring Boot)
+
+Soft Skills:
+- teamwork
+- good communication
+- fluent in english
+
+Check my repositories for more detail. <br>
+Contact me on [LinkedIn](https://www.linkedin.com/in/sebastian-predescu-13665031a/) for anything. 🤙
+
 <!--
 **PredescuSebastianIon/PredescuSebastianIon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
